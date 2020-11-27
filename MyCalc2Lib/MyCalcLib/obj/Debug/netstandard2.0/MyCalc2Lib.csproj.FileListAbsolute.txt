@@ -1,0 +1,8 @@
+C:\Users\Немец\source\repos\MyCalcLib\MyCalcLib\bin\Debug\netstandard2.0\MyCalc2Lib.deps.json
+C:\Users\Немец\source\repos\MyCalcLib\MyCalcLib\bin\Debug\netstandard2.0\MyCalc2Lib.dll
+C:\Users\Немец\source\repos\MyCalcLib\MyCalcLib\bin\Debug\netstandard2.0\MyCalc2Lib.pdb
+C:\Users\Немец\source\repos\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalc2Lib.csproj.CoreCompileInputs.cache
+C:\Users\Немец\source\repos\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalc2Lib.AssemblyInfoInputs.cache
+C:\Users\Немец\source\repos\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalc2Lib.AssemblyInfo.cs
+C:\Users\Немец\source\repos\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalc2Lib.dll
+C:\Users\Немец\source\repos\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalc2Lib.pdb
